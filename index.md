@@ -1,18 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/sam-wyche/sam-wyche.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am making this wesite to become more familiar with GitHub and it will only contain my resume for now. I encourage you to check back and see how this website has progressed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Resume
 
 ```markdown
-Syntax highlighted code block
+Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
 
-# Header 1
-## Header 2
+
+# Work Experience
 ### Header 3
 
 - Bulleted
