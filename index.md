@@ -3,12 +3,13 @@
 I am making this wesite to become more familiar with GitHub and it will only contain my resume for now. I encourage you to check back and see how this website has progressed.
 
 
+
 ## Resume
 
    **wychesd@mail.uc.edu - (513)444-3276 - [LinkedIn](https://www.linkedin.com/in/sam-wyche-700114192/)**
 
 
-##### Technical Skills
+#### Technical Skills
 Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
 
 Software:  Microsoft Office (Word, Excel, PowerPoint)
