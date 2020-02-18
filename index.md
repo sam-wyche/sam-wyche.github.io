@@ -1,5 +1,7 @@
 # Welcome to my website
 
+I'm Sam - a second year computer science major at the University of Cincinnati, and I'm also pursuing minors in mathematics, psychology, nutrition sciences, and entrepreneurship. Computer science is something that I picked up when I got to UC, and I become more passionate about it every day. I really enjoy pushing my limits and proving to myself that I can do more. I'm a good leader, as I was named team captain of the club wrestling team at UC, and I love to work in team environments. I don’t have too much experience as a programmer, but I am very excited to work alongside and learn from some professionals. 
+
 I am making this wesite to become more familiar with GitHub and it will only contain my resume for now. I encourage you to check back and see how this website has progressed.
 
 
