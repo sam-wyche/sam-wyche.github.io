@@ -27,9 +27,6 @@ Graduating: May 2023
 GPA: 3.133/4.0
 ```
 
-Moeller High School, Montgomery, Ohio                                 Graduated: May 2018
-AP Coursework: Psychology, BC Calculus                                GPA: 3.5/4.0
-
 
 #### Work Experience
 MORSCO AEC, Cincinnati, Ohio                                          Jun 2019 - Aug 2019
