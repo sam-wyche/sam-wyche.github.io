@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/sam-wyche/sam-wyche.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am making this wesite to become more familiar with GitHub and it will only contain my resume for now. I encourage you to check back and see how this website has progressed.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Resume
 
 ```markdown
-Syntax highlighted code block
+   **1590 Lighthouse Cove, Loveland, Ohio 45140 - wychesd@mail.uc.edu - (513)444-3276**
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+**Technical Skills**
+Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
+Software:  Microsoft Office (Word, Excel, PowerPoint)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Education**
+University of Cincinnati, Cincinnati, Ohio                            Graduating: May 2023
+College of Engineering and Applied Science                            GPA: 3.133/4.0
+Bachelor of Science: Computer Science
+Minors: Mathematics, Psychology, Nutrition Sciences, Entrepreneurship
 
-[Link](url) and ![Image](src)
+Moeller High School, Montgomery, Ohio                                 Graduated: May 2018
+AP Coursework: Psychology, BC Calculus                                GPA: 3.5/4.0
+
+
+**Work Experience**
+MORSCO AEC, Cincinnati, Ohio                                          Jun 2019 - Aug 2019
+Summer Intern
+  * Hired to set up the company's Visual EstiTrack software.
+  * Worked in the shop with a team where we made machine presses.
+
+Lifetime Fitness, Mason, Ohio                                         Jun 2018 - Aug 2018
+Facility Operations Team Member
+  * Some required skills for this job included multi-tasking and working in a fast-paced
+    environment, working in a team, customer service skills, complaint resolution, etc.
+  * Took care of the facilities and assisted Lifetime members.
+  
+  
+**Leadership Experience**
+University of Cincinnati Club Wrestling, Team Captain                  Oct 2019 - Present
+Moeller High School Wrestling, Team Captain                            Oct 2015 - Mar 2018
+
+
+**Available for Summer 2020 Co-op**
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sam-wyche/sam-wyche.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
