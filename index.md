@@ -18,8 +18,10 @@ Software:  Microsoft Office (Word, Excel, PowerPoint)
 #### Education
 University of Cincinnati, Cincinnati, Ohio
 College of Engineering and Applied Science
+```
 Bachelor of Science: Computer Science
 Minors: Mathematics, Psychology, Nutrition Sciences, Entrepreneurship
+```
 ```
 Graduating: May 2023
 GPA: 3.133/4.0
