@@ -5,10 +5,10 @@ I am making this wesite to become more familiar with GitHub and it will only con
 
 ## Resume
 
-   **1590 Lighthouse Cove, Loveland, Ohio 45140 - wychesd@mail.uc.edu - (513)444-3276**
+   **wychesd@mail.uc.edu - (513)444-3276 - https://www.linkedin.com/in/sam-wyche-700114192/**
 
 
-#### Technical Skills
+##### Technical Skills
 Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
 Software:  Microsoft Office (Word, Excel, PowerPoint)
 
@@ -23,7 +23,7 @@ Moeller High School, Montgomery, Ohio                                 Graduated:
 AP Coursework: Psychology, BC Calculus                                GPA: 3.5/4.0
 
 
-**Work Experience**
+##### Work Experience
 MORSCO AEC, Cincinnati, Ohio                                          Jun 2019 - Aug 2019
 Summer Intern
   * Hired to set up the company's Visual EstiTrack software.
@@ -36,9 +36,9 @@ Facility Operations Team Member
   * Took care of the facilities and assisted Lifetime members.
   
   
-**Leadership Experience**
+##### Leadership Experience
 University of Cincinnati Club Wrestling, Team Captain                  Oct 2019 - Present
 Moeller High School Wrestling, Team Captain                            Oct 2015 - Mar 2018
 
 
-**Available for Summer 2020 Co-op**
+##### Available for Summer 2020 Co-op
