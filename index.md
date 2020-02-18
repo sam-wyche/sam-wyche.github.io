@@ -10,6 +10,7 @@ I am making this wesite to become more familiar with GitHub and it will only con
 
 ##### Technical Skills
 Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
+
 Software:  Microsoft Office (Word, Excel, PowerPoint)
 
 
