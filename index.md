@@ -20,10 +20,10 @@ University of Cincinnati, Cincinnati, Ohio
 College of Engineering and Applied Science
 Bachelor of Science: Computer Science
 Minors: Mathematics, Psychology, Nutrition Sciences, Entrepreneurship
-'''
+```
 Graduating: May 2023
 GPA: 3.133/4.0
-'''
+```
 
 Moeller High School, Montgomery, Ohio                                 Graduated: May 2018
 AP Coursework: Psychology, BC Calculus                                GPA: 3.5/4.0
