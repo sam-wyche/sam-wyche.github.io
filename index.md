@@ -45,6 +45,7 @@ Facility Operations Team Member
   
 #### Leadership Experience
 University of Cincinnati Club Wrestling, Team Captain                  Oct 2019 - Present
+
 Moeller High School Wrestling, Team Captain                            Oct 2015 - Mar 2018
 
 
