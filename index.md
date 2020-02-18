@@ -2,17 +2,18 @@
 
 I am making this wesite to become more familiar with GitHub and it will only contain my resume for now. I encourage you to check back and see how this website has progressed.
 
+
 ## Resume
 
    **1590 Lighthouse Cove, Loveland, Ohio 45140 - wychesd@mail.uc.edu - (513)444-3276**
 
 
-**Technical Skills**
+######Technical Skills
 Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
 Software:  Microsoft Office (Word, Excel, PowerPoint)
 
 
-**Education**
+######Education
 University of Cincinnati, Cincinnati, Ohio                            Graduating: May 2023
 College of Engineering and Applied Science                            GPA: 3.133/4.0
 Bachelor of Science: Computer Science
