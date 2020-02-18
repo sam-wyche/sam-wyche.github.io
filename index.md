@@ -15,7 +15,7 @@ Programming Languages:  Python, C++, MatLab, Swift, LabVIEW, VBA, and R.
 Software:  Microsoft Office (Word, Excel, PowerPoint)
 
 
-##### Education
+#### Education
 University of Cincinnati, Cincinnati, Ohio                            Graduating: May 2023
 College of Engineering and Applied Science                            GPA: 3.133/4.0
 Bachelor of Science: Computer Science
@@ -25,7 +25,7 @@ Moeller High School, Montgomery, Ohio                                 Graduated:
 AP Coursework: Psychology, BC Calculus                                GPA: 3.5/4.0
 
 
-##### Work Experience
+#### Work Experience
 MORSCO AEC, Cincinnati, Ohio                                          Jun 2019 - Aug 2019
 Summer Intern
   * Hired to set up the company's Visual EstiTrack software.
@@ -38,9 +38,9 @@ Facility Operations Team Member
   * Took care of the facilities and assisted Lifetime members.
   
   
-##### Leadership Experience
+#### Leadership Experience
 University of Cincinnati Club Wrestling, Team Captain                  Oct 2019 - Present
 Moeller High School Wrestling, Team Captain                            Oct 2015 - Mar 2018
 
 
-##### Available for Summer 2020 Co-op
+#### Available for Summer 2020 Co-op
