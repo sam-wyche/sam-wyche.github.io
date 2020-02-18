@@ -5,7 +5,7 @@ I am making this wesite to become more familiar with GitHub and it will only con
 
 ## Resume
 
-   **wychesd@mail.uc.edu - (513)444-3276 - https://www.linkedin.com/in/sam-wyche-700114192/**
+   **wychesd@mail.uc.edu - (513)444-3276 - [LinkedIn](https://www.linkedin.com/in/sam-wyche-700114192/)**
 
 
 ##### Technical Skills
